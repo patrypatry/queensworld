@@ -38,7 +38,7 @@ address:
   - line: Planet Earth
 
 # Credits content
-credits: 'Designed with <3 and customized using <a http://jekyllrb.com">Jekyll</a>. Based on open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'Designed by me with <3 and customized using <a http://jekyllrb.com">Jekyll</a>. Based on open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
