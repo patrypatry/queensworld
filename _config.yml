@@ -6,12 +6,6 @@ description: "Write an awesome description for your new site here. You can edit 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 191919
-  secondary: c61f4c
-  secondary-dark: 090909
-
 # Footer settings
 footer:
   copyright: patrypatry
@@ -36,9 +30,6 @@ social:
 address:
   - line: United States
   - line: Planet Earth
-
-# Credits content
-credits: 'Designed by me with <3 and customized using <a http://jekyllrb.com">Jekyll</a>. Based on open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
