@@ -1,13 +1,11 @@
 ---
+title: Branding
 layout: default
 modal-id: 1
 date: 2014-07-18
 img: branding.png
 alt: image-alt
 project-date: April 2014
-
 category: Web Development
 description: A brand is the promise of an experience. — ALEXANDER ISLEY
-
-
 ---
