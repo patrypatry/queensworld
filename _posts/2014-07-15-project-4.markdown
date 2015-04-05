@@ -4,7 +4,7 @@ layout: default
 modal-id: 4
 date: 2014-07-15
 img: paintings.png
-alt: image-alt
+alt: paintings-mini.png
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development

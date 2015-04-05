@@ -4,7 +4,7 @@ layout: default
 modal-id: 6
 date: 2015-03-15
 img: dreams.png
-alt: image-alt
+alt: dreams-mini.png
 project-date: March 2015
 client: Start Bootstrap
 category: Web Development
