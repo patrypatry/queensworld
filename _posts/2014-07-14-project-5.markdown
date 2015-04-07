@@ -2,11 +2,7 @@
 title: Packaging
 layout: default
 modal-id: 5
-date: 2014-07-14
 img: packaging.png
 alt: packaging-mini.png
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: People ignore design that ignores people. —	FRANK CHIMERO
 ---

@@ -2,10 +2,7 @@
 title: Drawings
 layout: default
 modal-id: 2
-date: 2014-07-17
 img: drawings.png
 alt: drawings-mini.png
-project-date: April 2014
-category: Web Development
 description: Don’t try to be original try to be good. —	PAUL RAND
 ---

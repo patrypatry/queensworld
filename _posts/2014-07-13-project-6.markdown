@@ -2,11 +2,7 @@
 title: Dreams
 layout: default
 modal-id: 6
-date: 2015-03-15
 img: dreams.png
 alt: dreams-mini.png
-project-date: March 2015
-client: Start Bootstrap
-category: Web Development
 description: “El sueño posee una maravillosa poesía, una exacta facultad alegórica, un humorismo incomparable y una deliciosa ironía.” ― Sigmund Freud
 ---

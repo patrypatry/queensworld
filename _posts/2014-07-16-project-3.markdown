@@ -2,11 +2,7 @@
 title: Websites
 layout: default
 modal-id: 3
-date: 2014-07-16
 img: websites.png
 alt: websites-mini.png
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
 description: Good design is good business. —	THOMAS WATSON, JR.
 ---
