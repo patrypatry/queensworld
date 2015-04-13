@@ -2,7 +2,9 @@
 title: Websites
 layout: default
 modal-id: 3
+work_01: websites/websites-01.png
+work_02: websites/websites-02.png
 img: websites.png
 alt: websites-mini.png
-description: Good design is good business. —	THOMAS WATSON, JR.
+description: Good design is good business. — THOMAS WATSON, JR.
 ---

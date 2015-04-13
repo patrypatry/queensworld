@@ -1,8 +1,10 @@
 ---
-title: Dreams
+title: Randomness
 layout: default
 modal-id: 6
-img: dreams.png
-alt: dreams-mini.png
-description: “El sueño posee una maravillosa poesía, una exacta facultad alegórica, un humorismo incomparable y una deliciosa ironía.” ― Sigmund Freud
+work_01: random/random-01.png
+work_02: random/random-02.png
+img: random.png
+alt: random-mini.png
+description: Creativity is the ability to introduce order into the randomness of nature. <br> ― ERIC HOFFER
 ---

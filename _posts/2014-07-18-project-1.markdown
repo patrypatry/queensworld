@@ -2,6 +2,8 @@
 title: Branding
 layout: default
 modal-id: 1
+work_01: branding/branding-01.png
+work_02: branding/branding-02.png
 img: branding.png
 alt: branding-mini.png
 description: A brand is the promise of an experience. — ALEXANDER ISLEY

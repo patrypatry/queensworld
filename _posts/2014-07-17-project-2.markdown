@@ -2,6 +2,8 @@
 title: Drawings
 layout: default
 modal-id: 2
+work_01: drawings/drawings-01.png
+work_02: drawings/drawings-02.png
 img: drawings.png
 alt: drawings-mini.png
 description: Don’t try to be original try to be good. —	PAUL RAND

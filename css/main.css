@@ -73,7 +73,12 @@ hr.star-primary:after {
 
 .img-centered {
    max-width: 600px;
-  margin: 0 auto;
+   margin: 0 auto;
+}
+
+.img-centered-modal {
+   max-width: 1200px;
+   margin: 0 auto;
 }
 
 header {
@@ -250,6 +255,7 @@ section.success {
 
 .btn-outline {
     margin-top: 15px;
+    margin-left: 10px;
     border: solid 2px #fff;
     font-size: 20px;
     color: #fff;

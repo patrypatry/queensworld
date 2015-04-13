@@ -2,7 +2,9 @@
 title: Packaging
 layout: default
 modal-id: 5
+work_01: packaging/packaging-01.png
+work_02: packaging/packaging-02.png
 img: packaging.png
 alt: packaging-mini.png
-description: People ignore design that ignores people. —	FRANK CHIMERO
+description: People ignore design that ignores people. — FRANK CHIMERO
 ---
