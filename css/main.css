@@ -77,8 +77,9 @@ hr.star-primary:after {
 }
 
 .img-centered-modal {
-   max-width: 1200px;
-   margin: 0 auto;
+   max-width: 100%;
+   height: auto;
+   width: auto\9;
 }
 
 header {
