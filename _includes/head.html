@@ -1,11 +1,18 @@
+<html prefix="og: http://ogp.me/ns#">
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="viewport" content="width=device-width">
+    <meta name="author" content="{{ site.author }}">
     <meta name="description" content="{{ site.description }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="RSS" href="/feed.xml">
+
+    <meta property="og:title" content="Portfolio" />
+    <meta property="og:description" content="Works and Articles" />
+    <meta property="og:url" content="http://patrypatry.com/index.html" />
+    <meta property="og:image" content="http://example.com/foo.jpg" />
 
     <!-- Custom CSS & Bootstrap Core CSS - Uses Bootswatch Flatly Theme: http://bootswatch.com/flatly/ -->
 
